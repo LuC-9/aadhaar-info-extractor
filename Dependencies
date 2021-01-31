@@ -1,0 +1,13 @@
+Following Python libraries are required
+pytesseract
+cv2
+numpy as np
+sys
+requests
+re
+os
+ftfy
+PIL import Image
+adhar_read
+io
+json
